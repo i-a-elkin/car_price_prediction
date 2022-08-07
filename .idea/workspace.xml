@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fc39be4c-5137-4fa4-a650-957d148920b2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,8 @@
       <workItem from="1659785286015" duration="5000" />
       <workItem from="1659786242712" duration="119000" />
       <workItem from="1659790886270" duration="2579000" />
+      <workItem from="1659793882943" duration="239000" />
+      <workItem from="1659853203557" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="New fit and predict">
       <created>1659784738131</created>
@@ -66,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659784738131</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Target and prediction correction">
+      <created>1659794072297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659794072297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New fit and predict" />
-    <option name="LAST_COMMIT_MESSAGE" value="New fit and predict" />
+    <MESSAGE value="Target and prediction correction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Target and prediction correction" />
   </component>
 </project>
